@@ -1,7 +1,7 @@
 # 🧪 Elhaus Labs
 
 ## Overview
-Centralized **Compute & Experimental Layer** providing shared infrastructure for the **WTF** and **Fractal** projects.
+Centralized **Compute & Experimental Layer** providing shared infrastructure for the **WTF** and **Fractal** repositories.
 
 ## Shared Runner Fleet
 High-availability self-hosted runners for CI/CD pipelines:
