@@ -16,6 +16,6 @@ High-availability self-hosted runners for CI/CD pipelines:
 * **Sandboxing:** Experimental environment for testing new workflows and toolchains.
 
 ---
-Note: Access to this vault is managed via Organization RBAC.
+Note: Access to this labs environment is managed via Organization RBAC.
 
 For active development, please refer to our primary production repositories.
