@@ -4,7 +4,7 @@
 Centralized **Compute & Experimental Layer** providing shared infrastructure for the **WTF** and **Fractal** projects.
 
 ## Shared Runner Fleet
-High-availability self-hosted runners for cross-org CI/CD pipelines:
+High-availability self-hosted runners for CI/CD pipelines:
 * 1x **Linux:**
 * 1x **Windows:**
 
@@ -13,4 +13,4 @@ High-availability self-hosted runners for cross-org CI/CD pipelines:
 
 ## Core Purpose
 * **Centralization:** Unified management of self-hosted runners to reduce overhead.
-* **Sandboxing:** Experimental environment for testing new workflows and toolchains before production rollout.
+* **Sandboxing:** Experimental environment for testing new workflows and toolchains.
