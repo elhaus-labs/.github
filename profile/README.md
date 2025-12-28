@@ -14,3 +14,8 @@ High-availability self-hosted runners for CI/CD pipelines:
 ## Core Purpose
 * **Centralization:** Unified management of self-hosted runners to reduce overhead.
 * **Sandboxing:** Experimental environment for testing new workflows and toolchains.
+
+---
+Note: Access to this vault is managed via Organization RBAC.
+
+For active development, please refer to our primary production repositories.
