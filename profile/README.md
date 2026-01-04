@@ -5,8 +5,8 @@ Centralized **Compute & Experimental Layer** providing shared infrastructure for
 
 ## Shared Runner Fleet
 High-availability self-hosted runners for CI/CD pipelines:
-* 2x **Linux:**
-* 2x **Windows:**
+* 3x **Linux**
+* 2x **Windows**
 
 > [!IMPORTANT]
 > Infrastructure is shared. Use specific labels to target the correct OS and prevent queue bottlenecks.
